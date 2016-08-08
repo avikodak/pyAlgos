@@ -1,5 +1,5 @@
 '''
-File Name                   : findoddoccurence.h
+File Name                   : findtheremainder.py
 Created on                  : Aug 5, 2016
 Author                      : avikodak
 Testing Status              : Tested
